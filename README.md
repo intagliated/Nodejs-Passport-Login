@@ -10,7 +10,7 @@
           - npm i method-override 
           
           
-   after cloning set .env to have SESSION_SECRET=secret
+           -after cloning set .env to have SESSION_SECRET=secret
 
 
 
