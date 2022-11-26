@@ -1,11 +1,20 @@
 # Nodejs-Passport-Login
+ 
 
-## Commands 
+- Commannds
+           - npm init 
+                 
+          - npm i ejs express
+             
+          - npm i --save-dev nodemon doten
 
-### npm init (sets default values for package.json)
-### npm i ejs express
-### npm i --save-dev nodemon dotenv 
+
 
 
 ### npm run devStart
+
+
+### npm i bcrypt 
+
+
 
