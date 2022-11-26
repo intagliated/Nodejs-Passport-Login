@@ -1,7 +1,8 @@
-# Commands : Nodejs-Passport-Login :page_with_curl:
+# Commands :
+Nodejs-Passport-Login :page_with_curl:
  
 
-          - npm init (sets default values for package.json 
+          - npm init (sets default values for package.json) 
           - npm i ejs express
           - npm i --save-dev nodemon dotenv 
           - npm run devStart
