@@ -8,6 +8,9 @@
           - npm i bcrypt -g (in new terminal)
           - npm i passport passport-local express-session express-flash 
           - npm i method-override 
+          
+          
+   after cloning set .env to have SESSION_SECRET=secret
 
 
 
